@@ -1,5 +1,5 @@
 import { Type } from "class-transformer";
-import {  ArrayNotEmpty, IsArray, IsInt, IsNotEmpty, IsNumber, IsOptional, Length, ValidateNested } from "class-validator";
+import {  ArrayNotEmpty, IsArray, IsInt, IsNotEmpty, IsNumber, ValidateNested } from "class-validator";
 
 
 export class TransactionContentsDto {

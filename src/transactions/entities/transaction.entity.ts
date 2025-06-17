@@ -11,7 +11,7 @@ export class Transaction {
   total: number
 
   @Column({type: 'timestamp', default: () => "CURRENT_TIMESTAMP(6)"})
-  trasactionDate: Date
+  transactionDate: Date
 
   @OneToMany(() => TransactionContents, (trasaction) => trasaction.transaction)
   contents: TransactionContents[]
