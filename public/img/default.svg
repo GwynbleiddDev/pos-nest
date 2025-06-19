@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" version="1.1" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fcf2e3;
+      }
+
+      .cls-2 {
+        fill: #002947;
+      }
+
+      .cls-3 {
+        stroke: #002947;
+        stroke-width: 27px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: #fcf2e3;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Capa_1">
+      <g id="OBJECTS">
+        <g>
+          <g>
+            <path class="cls-2" d="M379,338.2H121c-4.8,0-8.8-3.9-8.8-8.8v-144c0-4.8,3.9-8.8,8.8-8.8h258c4.8,0,8.8,3.9,8.8,8.8v144c0,4.8-3.9,8.8-8.8,8.8Z"/>
+            <path class="cls-2" d="M167.7,176.7h-36.9v-5.7c0-3.6,2.9-6.5,6.5-6.5h23.9c3.6,0,6.5,2.9,6.5,6.5v5.7h0Z"/>
+            <path class="cls-2" d="M309.4,185.3h-104.5l8.1-21c2-5.1,6.9-8.5,12.4-8.5h65.8c6,0,11.3,4.1,12.9,9.9l5.3,19.6Z"/>
+            <path class="cls-1" d="M366.6,207.7h-22.7c-2.9,0-5.2-2.3-5.2-5.2v-12.1c0-2.9,2.3-5.2,5.2-5.2h22.7c2.9,0,5.2,2.3,5.2,5.2v12.1c0,2.9-2.3,5.2-5.2,5.2Z"/>
+            <circle class="cls-1" cx="250" cy="257.4" r="59.4"/>
+            <circle class="cls-2" cx="250" cy="257.4" r="39.2"/>
+            <circle class="cls-1" cx="270.3" cy="244" r="8.4"/>
+            <circle class="cls-1" cx="133.9" cy="194.7" r="8.2"/>
+          </g>
+          <line class="cls-3" x1="112.2" y1="124.1" x2="387.8" y2="366.8"/>
+          <line class="cls-4" x1="102.9" y1="133.4" x2="378.4" y2="376.2"/>
+          <circle class="cls-3" cx="250" cy="250" r="180.6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
