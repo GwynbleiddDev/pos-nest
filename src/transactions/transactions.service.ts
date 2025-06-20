@@ -60,7 +60,7 @@ export class TransactionsService {
         await transactionEntityManager.save(transactionContent)
       }
     })
-    return 'Venta Almacenada Correctamente'
+    return {message: 'Venta Almacenada Correctamente'}
   }
 
   findAll(transactionDate?: string) {
